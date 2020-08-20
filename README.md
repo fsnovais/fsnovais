@@ -1,4 +1,5 @@
 ### Hi there! 💻	
+![bio](https://user-images.githubusercontent.com/37004087/90777456-d5216800-e2d1-11ea-9c35-a5ea9a493960.gif)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phellippe)](https://github.com/anuraghazra/github-readme-stats)
 
