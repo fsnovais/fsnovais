@@ -8,7 +8,7 @@
 
  📘  Studying ReactJs, ReactNative and NodeJs
 
-💻 📱 Tryng learn something new everyday
+💻 📱 Tryng to learn something new everyday
 
 🎮 Passionate about games and movies
 
