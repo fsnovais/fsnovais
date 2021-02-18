@@ -21,7 +21,7 @@
 * [Instalação](#construction_worker-instalação)
 * [Começando](#runner-começando)
 * [FAQ](#postbox-faq)
-* [Encontrou um bug? Falta um recurso específico?](#bug-problemas)
+* [Encontrou um bug? Falta um recurso específico?](#scream_cat-problemas)
 * [Licença](#closed_book-licença)
 
 <br />
@@ -42,11 +42,11 @@ URLs SSH fornecem acesso a um repositório Git via SSH, um protocolo seguro. Se 
 
 **Instalando Dependencias**
 
-Você precisa instalar as dependências do projeto, então ** execute o comando abaixo na pasta raiz**:
+Você precisa instalar as dependências do projeto, então **execute o comando abaixo na pasta raiz**:
 
 ```yarn```
 
-Se estiver usando Mac, para instalar as depencências do projeto, ** execute o comando abaixo na pasta raiz**:
+Se estiver usando Mac, para instalar as depencências do projeto, **execute o comando abaixo na pasta raiz**:
 
 ```pod install```
 
@@ -64,7 +64,7 @@ Execute o seguinte comando para iniciar o aplicativo em um ambiente de desenvolv
 **Resposta:** 
 As tecnologias utilizadas neste projeto são [Lib1](https://www.link1.com/), [Lib2](www.link2.com/).
 
-# :bug: Problemas
+# :scream_cat: Problemas
 
 Sinta-se à vontade para ** registrar um novo problema ** com um título e descrição respectivos no repositório [phellippe] (https://github.com/phellippe/phellippe/issues). Se você já encontrou uma solução para seu problema, ** adoraria revisar seu pull request **!
 
