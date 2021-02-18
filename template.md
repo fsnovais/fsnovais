@@ -11,7 +11,7 @@
 [![Languages](https://img.shields.io/github/languages/count/phellippe/phellippe?color=%23662d91&style=flat-square)](#)
 [![Stars](https://img.shields.io/github/stars/phellippe/phellippe?color=662d91&style=flat-square)](https://github.com/phellippe/phellippe/stargazers)
 [![Forks](https://img.shields.io/github/forks/phellippe/phellippe?color=%23662d91&style=flat-square)](https://github.com/phellippe/phellippe/network/members)
-+[![Contributors](https://img.shields.io/github/contributors/phellippe/phellippe?color=662d91&style=flat-square)](https://github.com/phellippe/phellippe//graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/phellippe/phellippe?color=662d91&style=flat-square)](https://github.com/phellippe/phellippe//graphs/contributors)
 
 ---
 
