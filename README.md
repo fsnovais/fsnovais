@@ -10,7 +10,7 @@
 
 📘  Data Engineer
 
-💻 📱 Tryng to learn something new everyday
+💻 📱 Trying to learn something new everyday
 
 🎮 Passionate about games and movies
 
