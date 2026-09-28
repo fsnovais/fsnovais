@@ -3,7 +3,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 # 💫 About Me:
 
-📘 **Data Engineer** with hands-on experience building scalable data pipelines and analytics platforms  
+📘 **Software Engineer** with hands-on experience building scalable data pipelines, analytics platforms, end to end systems
 
 💻 📱 Trying to learn something new everyday
 
